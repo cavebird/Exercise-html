@@ -1,2 +1,3 @@
 # Exercise-html
-first site, practice
+first site, practice </br>
+[GitHub Pages](https://cavebird.github.io/Exercise-html/)
